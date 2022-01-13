@@ -1,5 +1,13 @@
+$color1: violet;
+$color2: skyblue;
+$color3: yellow;
+
+
 h1{
-    color:red
+    color: $color3;
+}
+h2{
+    color: $color1;
 }
 body{
     background-color: sandybrown;
